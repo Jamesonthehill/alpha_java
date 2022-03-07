@@ -5,7 +5,7 @@ public class ClothExample extends Cloth {
 		super("더비팬츠", "라코스테", 250000); // 상속의 두가지방법 중하나.
 	}
 	
-		
+		// --- 지금안되야맞음
 	public static void main(String[] args) {
 		ClothExample clothExample = new ClothExample();
 		System.out.println("구현결과 "); // 이거 적어주고 아래 꺼 실행
